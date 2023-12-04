@@ -1,0 +1,6 @@
+@ilcs_programmer_HostAddress = http://localhost:5298
+
+GET {{ilcs_programmer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

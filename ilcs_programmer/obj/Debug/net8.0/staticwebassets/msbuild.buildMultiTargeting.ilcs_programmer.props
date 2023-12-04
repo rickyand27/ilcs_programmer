@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ilcs_programmer.props" />
+</Project>

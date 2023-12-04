@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ilcs_programmer", "ilcs_programmer\ilcs_programmer.csproj", "{7EB755DD-AA1D-4217-A6E4-DE2FCC63F0BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EB755DD-AA1D-4217-A6E4-DE2FCC63F0BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB755DD-AA1D-4217-A6E4-DE2FCC63F0BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB755DD-AA1D-4217-A6E4-DE2FCC63F0BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB755DD-AA1D-4217-A6E4-DE2FCC63F0BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3527B207-7136-436A-B860-49A94EA19B9A}
+	EndGlobalSection
+EndGlobal
